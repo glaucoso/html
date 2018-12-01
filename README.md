@@ -1,10 +1,10 @@
-#HTML5
+# HTML5
 
-##Templates for HTML pages - Templates HTML
+## Templates for HTML pages - Templates HTML
 
-###This is my HMTL templates repository.
+### This is my HMTL templates repository.
 
-####Este é meu repositório para guardar páginas de exemplos de templates HTML5
+#### Este é meu repositório para guardar páginas de exemplos de templates HTML5
 
 
 http://www.csszengarden.com
