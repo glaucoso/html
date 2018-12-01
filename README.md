@@ -1,7 +1,6 @@
 # HTML5
 
-## Templates for HTML pages - Templates HTML - Este é meu repositório para guardar páginas de exemplos de templates HTML5
-
+## Templates for HTML pages - Templates HTML
 
 
 ```js
