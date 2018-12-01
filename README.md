@@ -2,7 +2,7 @@
 
 ## Templates for HTML pages - Templates HTML - Este é meu repositório para guardar páginas de exemplos de templates HTML5
 
-![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!")
+
 
 ```js
 function vamosVerOsTemplates(){
@@ -41,4 +41,4 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_responsive_quart
 
 https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_responsive_quarter
 
-
+![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!")
