@@ -1,0 +1,32 @@
+.container {
+	width: 940px;
+	margin-left:auto;
+	margin-right:auto;
+	background:gray;
+}
+
+.container .coluna {
+	background:red;
+	width:312px;
+	float:left;
+	margin-left:1px;
+}
+
+.container .coluna:last-child{
+	float:right;
+}
+
+.clearFloat {
+	clear:both;
+}
+
+.displayBlock, .displayInline {
+	border:1px solid black;
+	margin-top:10px;
+	margin-bottom:10px;
+	display:block;
+}
+
+.displayInline {
+	display:inline;
+}
