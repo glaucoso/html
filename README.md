@@ -1,10 +1,8 @@
 # HTML5
 
-## Templates for HTML pages - Templates HTML
+## Templates for HTML pages - Templates HTML - Este é meu repositório para guardar páginas de exemplos de templates HTML5
 
-### This is my HMTL templates repository.
-
-#### Este é meu repositório para guardar páginas de exemplos de templates HTML5
+![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!")
 
 ```js
 function vamosVerOsTemplates(){
