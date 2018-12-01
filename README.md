@@ -6,7 +6,7 @@ This is my HMTL templates repository.
 
 Este é meu repositório para guardar páginas de exemplos de templates HTML5
 
-html5 templates w3schools
+
 http://www.csszengarden.com
 https://html5up.net/
 https://pixelarity.com/
