@@ -20,9 +20,9 @@ https://templated.co
 
 https://html5-templates.com
 
-https://developers.google.com/web/
-
 https://www.w3schools.com/w3css/w3css_templates.asp
+
+https://www.w3schools.com/w3css/w3css_demo.asp
 
 https://www.w3schools.com/bootstrap/default.asp
 
