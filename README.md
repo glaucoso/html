@@ -6,7 +6,11 @@
 
 #### Este é meu repositório para guardar páginas de exemplos de templates HTML5
 
-
+```js
+function vamosVerOsTemplates(){
+    return "vamos";
+}
+```
 http://www.csszengarden.com
 
 https://html5up.net/
