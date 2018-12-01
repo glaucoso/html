@@ -38,6 +38,6 @@ https://www.w3schools.com/w3css/w3css_references.asp#container
 
 https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_responsive_quarter
 
-https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_ref_responsive_quarter
+
 
 ![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!")
