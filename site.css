@@ -1,0 +1,130 @@
+body {
+    background-color: #F2FFFC;
+    font-size: 120%;
+line-height: 1.5;
+}
+main h1 {
+    background-color:rgb(133, 25, 68);
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family:"Open Sans Condensed", "Arial", sans-serif;
+    padding: 5px;
+    font-size: 40px;
+}
+
+.cabecalho{
+
+text-align: center;
+	background-color: #851944;
+	color: #FFF;
+	padding: 5px;
+	border-bottom: 10px solid black;
+	font-size: 40px;
+	text-transform: uppercase;
+}
+
+
+h1, h2 {
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+h2 {
+   
+    font-size: 20px;
+}
+
+p {
+    text-align: justify;
+    font-family: "Arial", sans-serif;
+    margin: 20px 0;
+}
+aside {
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+}
+
+footer {
+    background-color: #000;
+    color: #F2FFFC;
+}
+
+nav a {
+    color: #F2FFFC;
+}
+ul li a {
+    color: inherit;
+}
+aside, footer {
+    padding: 20px;
+}
+.container {
+	width: 720px;
+	margin: auto;
+	padding: 30px 0;
+}
+aside h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+div {
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+main div {
+    padding: 30px 0;
+}
+em {
+    font-style: italic;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+
+.icones-sociais li {
+    display: inline-block;
+}
+
+.navegacao-site {
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    width: 85%;
+}
+
+main {
+    float: left;
+width: 85%;
+	padding-bottom: 80px;}
+aside {
+    width: 15%;
+    float: right;
+}
+.img_eu {
+    width: 15%;
+    float: right;
+    clear: right;
+    box-sizing: border-box;
+    border-left: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+aside {
+    box-sizing: border-box;
+    border-left: 5px solid black;
+    border-bottom: 5px solid black;
+}
+footer {
+    clear: both;
+}
+.navegacao-site {
+    width: 15%;
+    position: relative;
+    
+}
